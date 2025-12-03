@@ -1,0 +1,205 @@
+[01:13:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:13:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[01:13:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:13:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:13:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.9.1-SNAPSHOT), ViaVersion (5.5.0), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
+[01:13:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:13:51] [ServerMain/INFO]: Loaded 1290 recipes
+[01:13:52] [ServerMain/INFO]: Loaded 1399 advancements
+[01:13:52] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:13:52] [Server thread/INFO]: Loading properties
+[01:13:52] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:13:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:13:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:13:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:13:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:13:54] [Server thread/INFO]: Default game type: SURVIVAL
+[01:13:54] [Server thread/INFO]: Generating keypair
+[01:13:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:13:54] [Server thread/INFO]: Using epoll channel type
+[01:13:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:13:54] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[01:13:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:13:57] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:13:57] [Server thread/INFO]: [floodgate] Took 2,309ms to boot Floodgate
+[01:13:57] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[01:13:57] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[01:13:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:13:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:14:00] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[01:14:01] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:14:01] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:14:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:14:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:14:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:14:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:14:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:14:01] [Server thread/INFO]: Preparing level "world"
+[01:14:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:14:02] [Server thread/INFO]: Time elapsed: 1135 ms
+[01:14:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:14:03] [Server thread/INFO]: Time elapsed: 213 ms
+[01:14:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:14:03] [Server thread/INFO]: Time elapsed: 98 ms
+[01:14:03] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:14:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[01:14:04] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[01:14:04] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[01:14:07] [Server thread/INFO]: [spark] Starting background profiler...
+[01:14:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:14:08] [Server thread/INFO]: [Geyser-Spigot] 
+[01:14:08] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b999 (git-master-dbed595)
+[01:14:08] [Server thread/INFO]: [Geyser-Spigot] 
+[01:14:08] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:14:14] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 16712
+[01:14:14] [Server thread/INFO]: [Geyser-Spigot] Done (6.052s)! Run /geyser help for help!
+[01:14:14] [Server thread/INFO]: Done preparing level "world" (13.156s)
+[01:14:14] [Server thread/INFO]: Running delayed init tasks
+[01:14:14] [Server thread/INFO]: Done (30.021s)! For help, type "help"
+[01:14:14] [Server thread/INFO]: Timings Reset
+[01:14:14] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:14:14] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
+[01:14:46] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:14:46] [localSession-7-2/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:14:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 joined (UUID: 00000000-0000-0000-0009-01f69b92102d)
+[01:14:47] [Server thread/INFO]: .Abalan1312 joined the game
+[01:14:47] [Server thread/INFO]: .Abalan1312[/127.66.135.69:0] logged in with entity id 25 at ([world]-212.79453, -9.0, -111.38414)
+[01:15:00] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:15:00] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 disconnected
+[01:15:00] [Server thread/INFO]: .Abalan1312 lost connection: Disconnected
+[01:15:00] [Server thread/INFO]: .Abalan1312 left the game
+[01:15:18] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:15:18] [localSession-7-3/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:15:18] [User Authenticator #0/INFO]: UUID of player Abalan1312 is 16dbaedf-ad3b-369a-b1a1-6ab155860de5
+[01:15:18] [Server thread/INFO]: Abalan1312 joined the game
+[01:15:18] [Server thread/INFO]: Abalan1312[/127.66.135.69:0] logged in with entity id 221 at ([world]-39.5, 96.0, -23.5)
+[01:16:01] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:16:01] [Server thread/INFO]: Abalan1312 lost connection: Disconnected
+[01:16:01] [Server thread/INFO]: Abalan1312 left the game
+[01:17:01] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:17:01] [localSession-7-4/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:17:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 joined (UUID: 00000000-0000-0000-0009-01f69b92102d)
+[01:17:01] [Server thread/INFO]: .Abalan1312 joined the game
+[01:17:01] [Server thread/INFO]: .Abalan1312[/127.66.135.69:0] logged in with entity id 412 at ([world]-212.79453, -9.0, -111.38414)
+[01:17:34] [Server thread/INFO]: .Abalan1312 was slain by Zombie
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.2497199999999964,3.927570000000003,12.340024999999997
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:18:02] [Server thread/WARN]: .Abalan1312 moved too quickly! -0.3467600000000033,4.0030200000000065,12.211029999999994
+[01:19:01] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:19:01] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 disconnected
+[01:19:01] [Server thread/INFO]: .Abalan1312 lost connection: Disconnected
+[01:19:01] [Server thread/INFO]: .Abalan1312 left the game
+[01:19:18] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:19:18] [localSession-7-1/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:19:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 joined (UUID: 00000000-0000-0000-0009-01f69b92102d)
+[01:19:19] [Server thread/INFO]: .Abalan1312 joined the game
+[01:19:19] [Server thread/INFO]: .Abalan1312[/127.66.135.69:0] logged in with entity id 861 at ([world]88.83917, 62.21916406552, 168.56734)
+[01:19:57] [User Authenticator #1/INFO]: UUID of player Dark_Divinity is 424b338e-8f0d-34bf-bde8-04e9fdf27416
+[01:19:58] [Server thread/INFO]: Dark_Divinity joined the game
+[01:19:58] [Server thread/INFO]: Dark_Divinity[/127.66.135.69:49357] logged in with entity id 960 at ([world]-194.59502432227077, 34.0, -80.69999998807907)
+[01:20:01] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 disconnected
+[01:20:01] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:20:01] [Server thread/INFO]: .Abalan1312 lost connection: Disconnected
+[01:20:01] [Server thread/INFO]: .Abalan1312 left the game
+[01:20:20] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:20:20] [localSession-7-2/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:20:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 joined (UUID: 00000000-0000-0000-0009-01f69b92102d)
+[01:20:21] [Server thread/INFO]: .Abalan1312 joined the game
+[01:20:21] [Server thread/INFO]: .Abalan1312[/127.66.135.69:0] logged in with entity id 1145 at ([world]50.644337, 72.0, 167.244)
+[01:21:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 disconnected
+[01:21:03] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:21:03] [Server thread/INFO]: .Abalan1312 lost connection: Disconnected
+[01:21:03] [Server thread/INFO]: .Abalan1312 left the game
+[01:21:44] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Abalan1312 (844)
+[01:21:44] [localSession-7-3/INFO]: [Geyser-Spigot] Abalan1312 (logged in as: Abalan1312) has connected to the Java server
+[01:21:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 joined (UUID: 00000000-0000-0000-0009-01f69b92102d)
+[01:21:44] [Server thread/INFO]: .Abalan1312 joined the game
+[01:21:44] [Server thread/INFO]: .Abalan1312[/127.66.135.69:0] logged in with entity id 1507 at ([world]-2.7000022, 68.09834999847412, 130.70262)
+[01:21:54] [Server thread/INFO]: Dark_Divinity issued server command: /tp .Abalan1312 Dark_Divinity
+[01:21:54] [Server thread/INFO]: [Dark_Divinity: Teleported .Abalan1312 to Dark_Divinity]
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:21:54] [Server thread/WARN]: .Abalan1312 moved too quickly! -200.60001001192092,-11.249179999999996,-249.86745379727068
+[01:22:04] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Abalan1312 disconnected
+[01:22:04] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Abalan1312 has disconnected from the Java server because of Bedrock client timed out
+[01:22:04] [Server thread/INFO]: .Abalan1312 lost connection: Disconnected
+[01:22:04] [Server thread/INFO]: .Abalan1312 left the game
+[01:25:26] [Server thread/INFO]: Dark_Divinity was blown up by Creeper
+[01:25:35] [Server thread/INFO]: Dark_Divinity issued server command: /gamemode creative
+[01:25:35] [Server thread/INFO]: [Dark_Divinity: Set own game mode to Creative Mode]
+[01:27:47] [Server thread/INFO]: Dark_Divinity issued server command: /gamemode survival
+[01:27:47] [Server thread/INFO]: [Dark_Divinity: Set own game mode to Survival Mode]
+[01:33:56] [Server thread/INFO]: Dark_Divinity lost connection: Timed out
+[01:33:56] [Server thread/INFO]: Dark_Divinity left the game
+[01:43:44] [Server thread/INFO]: Stopping the server
+[01:43:44] [Server thread/INFO]: Stopping server
+[01:43:44] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
+[01:43:44] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:43:44] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:43:44] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
+[01:43:44] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:43:44] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:43:45] [Server thread/INFO]: Saving players
+[01:43:45] [WebSocketConnectReadThread-87/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:43:45] [Server thread/INFO]: Saving worlds
+[01:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 84 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[01:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:43:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[01:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:43:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
