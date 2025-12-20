@@ -1,0 +1,17 @@
+[20Dec2025 00:01:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_Divinity: Set own game mode to Creative Mode]
+[20Dec2025 00:10:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dark_Divinity> 2946 63 1740
+[20Dec2025 00:18:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_Divinity: Successfully filled 240 block(s)]
+[20Dec2025 00:21:48.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dark_Divinity lost connection: Disconnected
+[20Dec2025 00:21:48.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_Divinity left the game
+[20Dec2025 00:22:04.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Dec2025 00:22:04.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2025 00:22:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2025 00:22:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2025 00:22:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2025 00:22:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2025 00:22:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2025 00:22:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2025 00:22:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2025 00:22:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2025 00:22:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2025 00:22:05.068] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
